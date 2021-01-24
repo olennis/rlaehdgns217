@@ -1,4 +1,4 @@
-![스크린샷 2020-09-28 오후 6 32 53](https://user-images.githubusercontent.com/59818904/94415859-13575480-01b9-11eb-8148-ad8ef7fdbaf3.png)
+![대문사진](https://user-images.githubusercontent.com/59818904/105636674-ae80e200-5eac-11eb-9992-e988b263c4cb.JPG)
 
 ### Hi there 👋
 
