@@ -1,5 +1,4 @@
-![대문사진](https://user-images.githubusercontent.com/59818904/105636674-ae80e200-5eac-11eb-9992-e988b263c4cb.JPG){: width="100" height="100"}
-
+![대문사진](https://user-images.githubusercontent.com/59818904/105636674-ae80e200-5eac-11eb-9992-e988b263c4cb.JPG)
 ### Hi there 👋
 
 <!--
