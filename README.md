@@ -1,4 +1,4 @@
-![대문사진](https://user-images.githubusercontent.com/59818904/105636674-ae80e200-5eac-11eb-9992-e988b263c4cb.JPG)
+<img src = 'https://user-images.githubusercontent.com/59818904/105727887-e18baa00-5f6e-11eb-87bf-87fd5d6e86e7.png' width="100%" height='40%'>
 ### Hi there 👋
 
 <!--
