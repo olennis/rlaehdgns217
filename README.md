@@ -1,5 +1,4 @@
-Hi there 👋  I'm Donghun 
-Typescript,react,redux
+### Hi there 👋  I'm Donghun 
 <img src = 'https://user-images.githubusercontent.com/59818904/105728658-bfdef280-5f6f-11eb-92d8-2037a7286b15.png' width="40%" height='100%'> 
 <!--
 **rlaehdgns217/rlaehdgns217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
