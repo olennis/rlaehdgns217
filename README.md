@@ -1,5 +1,6 @@
 ### Hi there 👋  I'm Donghun 
-<img src = 'https://user-images.githubusercontent.com/59818904/105728658-bfdef280-5f6f-11eb-92d8-2037a7286b15.png' width="40%" height='100%'> 
+<img width="100%" alt="스크린샷 2021-02-01 오전 2 13 06" src="https://user-images.githubusercontent.com/59818904/106391942-20b87000-6433-11eb-8dad-eb5308390b70.png">
+
 <!--
 **rlaehdgns217/rlaehdgns217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
